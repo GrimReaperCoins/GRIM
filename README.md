@@ -4,15 +4,10 @@ Grimcoin is POW/POS
 Technical Specifications:
 
 *Algorithm Scrypt
-
 *Type PoW/PoS
-
 *Coin name Grimcoin
-
 *Coin abbreviation GRIM
-
 *Address letter G
-
 *RPC port 24862
 
 *P2P port 24861
