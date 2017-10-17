@@ -30,6 +30,7 @@ Community:
 - Exchanges - TBA
 - Website - TBA
 - Slack - TBA
+- Twitter - https://twitter.com/grimcoin
 
 Development process
 ===========================
