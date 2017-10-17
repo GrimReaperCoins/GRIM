@@ -1,4 +1,4 @@
-GRIM coin - POW/POS
+GRIMcoin - POW/POS
 ==========================
 Algorithm: Scrypt
 
