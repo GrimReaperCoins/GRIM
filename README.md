@@ -1,5 +1,6 @@
-Grimcoin  POW/POS
-  
+GRIM coin - POW/POS
+==========================
+
 Technical Specifications:
 ==========================
 Algorithm: Scrypt
