@@ -1,9 +1,9 @@
 GRIM coin - POW/POS
 ==========================
+Algorithm: Scrypt
 
 Technical Specifications:
 ==========================
-Algorithm: Scrypt
 
 - Type: PoW/PoS
 - Coin name: Grimcoin
