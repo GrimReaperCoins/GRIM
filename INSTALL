@@ -1,0 +1,9 @@
+Building Grim
+
+See doc/readme-qt.rst for instructions on building Grim QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Grim.
+
+See doc/build-*.txt for instructions on building grimd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Grim.
