@@ -1,18 +1,19 @@
-Grimcoin is POW/POS
-===========================
+Grimcoin  POW/POS
   
 Technical Specifications:
-
+==========================
 Algorithm: Scrypt
 
-Type: PoW/PoS
-Coin name: Grimcoin
-Coin abbreviation: GRIM
-Address letter: G
-RPC port: 24862
-P2P port: 24861
-Block reward: 500 GRIM
+- Type: PoW/PoS
+- Coin name: Grimcoin
+- Coin abbreviation: GRIM
+- Address letter: G
+- RPC port: 24862
+- P2P port: 24861
+- Block reward: 500 GRIM
 
+Coin Info:
+===========================
 - Total coin supply: 233,333,333 GRIM
 - Premine percent: 10 %
 - Premine amount: 23,333,333 GRIM
@@ -23,10 +24,11 @@ Block reward: 500 GRIM
 - Target time span: 1 block
 - Transaction confirmations: 4 blocks
 
-
-- Exchanges - TBA
-- Website - TBA
-- Slack - TBA
+Community:
+===========================
+Exchanges - TBA
+Website - TBA
+Slack - TBA
 
 Development process
 ===========================
