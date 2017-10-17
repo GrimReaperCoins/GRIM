@@ -27,9 +27,9 @@ Coin Info:
 
 Community:
 ===========================
-Exchanges - TBA
-Website - TBA
-Slack - TBA
+- Exchanges - TBA
+- Website - TBA
+- Slack - TBA
 
 Development process
 ===========================
