@@ -28,7 +28,7 @@ Coin Info:
 Community:
 ===========================
 - Exchanges - TBA
-- Website - TBA
+- Website - http://grim.reaper.rocks
 - Slack - TBA
 - Twitter - https://twitter.com/grimcoin
 
