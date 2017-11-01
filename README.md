@@ -29,7 +29,7 @@ Community:
 ===========================
 - Website/Explorer - http://grim.reaper.rocks
 - Twitter - https://twitter.com/grimcoin
-- Exchanges - TBA
+- Exchanges - http://coinsmarkets.com/trade-BTC-GRIM.htm (More Coming Soon!)
 - Slack - TBA
 
 Development process
