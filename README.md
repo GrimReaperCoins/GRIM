@@ -27,10 +27,13 @@ Coin Info:
 
 Community:
 ===========================
-- Website/Explorer - http://grim.reaper.rocks
+- Website - http://reaper.rocks
+- Explorer - http://grim.reaper.rocks
 - Twitter - https://twitter.com/grimcoin
 - Exchanges - http://coinsmarkets.com/trade-BTC-GRIM.htm (More Coming Soon!)
 - Slack - TBA
+
+Wallet Downloads: https://github.com/GrimReaperCoins/GRIM/releases
 
 Development process
 ===========================
