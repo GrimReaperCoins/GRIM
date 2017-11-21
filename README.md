@@ -33,9 +33,9 @@ Community:
 - Discord - https://discord.gg/uUQNf5G
 - Slack - TBD
 
-Exchanges:
+Exchanges (More Coming):
 ===========================
-CoinsMarkets - http://coinsmarkets.com/trade-BTC-GRIM.htm (More Coming Soon!)
+CoinsMarkets - http://coinsmarkets.com/trade-BTC-GRIM.htm
 Stocks.Exchange - https://stocks.exchange/trade/GRIM/BTC
 
 Wallets:
