@@ -35,12 +35,12 @@ Community:
 
 Exchanges (More Coming):
 ===========================
-CoinsMarkets - http://coinsmarkets.com/trade-BTC-GRIM.htm
-Stocks.Exchange - https://stocks.exchange/trade/GRIM/BTC
+- CoinsMarkets - http://coinsmarkets.com/trade-BTC-GRIM.htm
+- Stocks.Exchange - https://stocks.exchange/trade/GRIM/BTC
 
 Wallets:
 ===========================
-Wallet Downloads: https://github.com/GrimReaperCoins/GRIM/releases
+- Wallet Downloads: https://github.com/GrimReaperCoins/GRIM/releases
 
 Development process
 ===========================
