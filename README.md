@@ -40,7 +40,7 @@ Exchanges (More Coming):
 
 Wallets:
 ===========================
-- Wallet Downloads: https://github.com/GrimReaperCoins/GRIM/releases
+Wallet Downloads: https://github.com/GrimReaperCoins/GRIM/releases
 
 Development process
 ===========================
