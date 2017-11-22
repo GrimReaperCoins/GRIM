@@ -7,3 +7,19 @@ implementation of Grim.
 See doc/build-*.txt for instructions on building grimd,
 the intended-for-services, no-graphical-interface, reference
 implementation of Grim.
+
+Building grimd on Ubuntu 16
+
+General Packages:
+sudo apt-get install build-essential autoconf libssl-dev libboost-dev libboost-chrono-dev libboost-filesystem-dev libboost-program-options-dev libboost-system-dev libboost-test-dev libboost-thread-dev libevent-dev libtool
+
+Requires libdb4.8:
+sudo add-apt-repository ppa:bitcoin/bitcoin
+sudo apt-get update
+sudo apt-get install -y libdb4.8-dev libdb4.8++-dev
+
+cd /GRIM/src
+make -f makefile.unix
+
+Commond build errors - wrong libdb version:
+db.h:14:20: fatal error: db_cxx.h: No such file or directory
