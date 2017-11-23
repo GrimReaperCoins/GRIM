@@ -19,7 +19,7 @@ Coin Info:
 - Premine percent: 10 %
 - Premine amount: 23,333,333 GRIM
 - PoS percentage: v1.2 Updated to 525% Per Year (from 100%)
-- Last PoW block block: 5000
+- Last PoW block: 5000
 - Coinbase maturity: 6 blocks
 - Target spacing: 64 seconds
 - Target time span: 1 block
