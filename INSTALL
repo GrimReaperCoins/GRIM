@@ -11,7 +11,7 @@ implementation of Grim.
 Building grimd on Ubuntu 16
 
 General Packages:
-sudo apt-get install build-essential autoconf libssl-dev libboost-dev libboost-chrono-dev libboost-filesystem-dev libboost-program-options-dev libboost-system-dev libboost-test-dev libboost-thread-dev libevent-dev libtool
+sudo apt-get install build-essential autoconf libssl-dev libboost-filesystem-dev libboost-program-options-dev libboost-system-dev libboost-test-dev libboost-thread-dev libevent-dev libtool
 
 Requires libdb4.8:
 sudo add-apt-repository ppa:bitcoin/bitcoin
