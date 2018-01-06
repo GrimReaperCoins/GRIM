@@ -1,7 +1,7 @@
 GRIMcoin - POW/POS
 ==========================
-Algorithm: Scrypt
-Latest Version: 1.2.1
+- Algorithm: Scrypt
+- Latest Version: 1.2.1
 
 Technical Specifications:
 ==========================
