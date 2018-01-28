@@ -48,6 +48,7 @@ Exchanges (More Coming):
 ===========================
 - CoinsMarkets - http://coinsmarkets.com/trade-BTC-GRIM.htm
 - Stocks.Exchange - https://stocks.exchange/trade/GRIM/BTC
+- Trade Satoshi - https://tradesatoshi.com/Exchange?market=GRIM_BTC
 
 Wallets:
 ===========================
